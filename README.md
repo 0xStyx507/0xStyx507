@@ -164,7 +164,7 @@ Entrega progresiva       ████████████████░░�
 
 | Proyecto | Enfoque | Repositorio |
 |:---|:---|:---|
-| **Backend Node.js API** | API REST con Node.js, Express y MongoDB | [crud-node](https://github.com/0xStyx507/crud-node) |
+| **Backend Node.js API** | API REST con Node.js, Express y MongoDB | [Secure Service Desk](https://github.com/0xStyx507/secure-service-desk) |
 | **Portafolio Personal** | Next.js, TypeScript, Tailwind CSS y data editable por JSON | [mi-portafolio](https://github.com/0xStyx507/mi-portafolio) |
 | **Java Sockets Cliente-Servidor** | Comunicación cliente-servidor por IP y puerto | [SoketsJava](https://github.com/0xStyx507/SoketsJava) |
 | **Chat WebSocket Bidireccional** | Comunicación en tiempo real | [Chat_WebSocket_Bidireccional](https://github.com/0xStyx507/Chat_WebSocket_Bidireccional) |
